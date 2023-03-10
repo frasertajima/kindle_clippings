@@ -2,7 +2,7 @@
 Jupyter notebooks to make your Kindle clippings txt file more useful.
 
 # getting started
-1. copy the `Kindle_my_clippings_reader.ipynb` notebook to Colab by pressing the copy to Colab button.
+1. copy the `Kindle_my_clippings_reader.ipynb` notebook to Colab by pressing the `Open in Colab` button.
 2. connect your Kindle to your PC and navigate to your `/documents` folder. Copy the `My_Clippings.txt` file to your Colab default directory.
 3. copy the `blank.csv` file to the default Colab directory
 4. run the notebook
