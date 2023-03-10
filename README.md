@@ -18,6 +18,6 @@ Uses the Oxford Dictionary API to automatically lookup definitions for words sav
 # suggested uses
 Beside providing an automated method of updating your vocabulary database (with definitions using the `oxford dictionary lookup.ipyb` notebook), the Kindle clippings reader notebook provides an easy way to extract information from the Kindle clippings text file.
 1. list all the books, pdfs and other sources you clipped from
-2. search for words in specific sources or all sources, with detailed references as to when it was clipped and where. You can use two search terms. `Tesla | China` searches for Tesla or China while `Tesla * China` searches for Tesla and China.
+2. search for words in specific sources or all sources, with detailed references as to when it was clipped and where. You can use two search terms. `Tesla | China` searches for Tesla or China while `Tesla .* China` searches for Tesla and China.
 3. get an idea as to the distribution of your clipping lengths
 4. get an overview of the topics covered and key words from your clippings
