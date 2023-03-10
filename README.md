@@ -8,7 +8,7 @@ Jupyter notebooks to make your Kindle clippings txt file more useful.
 4. run the notebook
 
 # when you already have vocabulary words and definitions
-Save them to a csv file called '2DoList.csv' with the csv format in Kindle_vocab.csv (essentially WORD and DEFINITION). When re-running the Jupyter notebook you should then have your old words plus the new words from the Kindle clipping text file.
+Save them to a csv file called '2DoList.csv' with the csv format. Duplicate the csv format found in Kindle_vocab.csv (essentially WORD and DEFINITION) for your own vocabulary file. When re-running the Jupyter notebook you should then have your old words plus the new words from the Kindle clipping text file.
 
 Note that the Kindle_vocab_updated.csv file will be the reference vocabulary file going forward. You can save this file or load it in other applications.
 
