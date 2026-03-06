@@ -37,4 +37,4 @@ A convenient LLM found in OpenVINO was modified and was able to use the clipping
 
 With better and better LLM models, the performance of this workflow should improve. I describe a sample notebook modified from the OpenVINO example in the `local_llm_processing.ipynb` notebook as a first try in exploring the use of LLM in local source text processing.
 
-March 2026: testing with NotebookLLM shows that this LLM vision has now been attained. Using only the kindle clippings, NotebookLLM is able to produce high quality, accurate summaries based only on the Kindle clippings.
+March 2026: testing with NotebookLLM shows that this LLM vision has now been attained. Using only the kindle clippings, NotebookLLM is able to produce high quality, accurate summaries.
