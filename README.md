@@ -1,6 +1,7 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b6b8e800-f1bd-4a38-8703-ff211c3e9b4a" />
 
-March 2026: Improved the search result and html presentation for the polars version.
+March 2026: Improved the search result and html presentation for the polars version. Use the polars version instead of the original pandas version if possible.
+
 <img width="3629" height="1273" alt="Screenshot From 2026-03-06 11-24-26" src="https://github.com/user-attachments/assets/883e0c17-bc53-40d6-8748-bcebf40eb5ad" />
 
 NotebookLLM has attained the vision: the dream of inputting the saved kindle_scribe_new_df_polars.csv file into an LLM and getting tailored and grounded reports and summaries has now been realised with NotebookLLM: https://github.com/frasertajima/kindle_clippings/blob/main/Tesla_s_AI_Pivot.pdf is an example of a tailored slideshow requesting information about Tesla developments from the Kindle clippings only. Reports and summaries can now be produced on any topic in the Kindle Clippings.
